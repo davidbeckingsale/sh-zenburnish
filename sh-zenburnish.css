@@ -33,13 +33,14 @@
 
 .syntaxhighlighter
 {
-	background-color: #0F192A !important;
+	background-color: #3F3F3F !important;
 }
 
 /* Gutter line numbers */
 .syntaxhighlighter .line .number
 {
-	color: #38566F !important;
+	color: #9FaFaF !important;
+	background-color: #262626;
 }
 
 /* Add border to the lines */
@@ -57,13 +58,13 @@
 /* First line */
 .syntaxhighlighter .line.alt1
 {
-	background-color: #0F192A !important;
+	background-color: #3F3F3F !important;
 }
 
 /* Second line */
 .syntaxhighlighter .line.alt2
 {
-	background-color: #0F192A !important;
+	background-color: #3F3F3F !important;
 }
 
 /* Highlighed line number */
@@ -101,24 +102,24 @@
 .syntaxhighlighter .plain,
 .syntaxhighlighter .plain a
 { 
-	color: #D1EDFF !important;
+	color: #DCDCCC !important;
 }
 
 .syntaxhighlighter .comments,
 .syntaxhighlighter .comments a
 { 
-	color: #428BDD !important;
+	color: #7F9F7F !important;
 }
 
 .syntaxhighlighter .string,
 .syntaxhighlighter .string a
 {
-	color: #1DC116 !important; 
+	color: #CC9393 !important; 
 }
 
 .syntaxhighlighter .keyword
 { 
-	color: #B43D3D !important; 
+	color: #F0DFAF !important; 
 }
 
 .syntaxhighlighter .preprocessor 
@@ -138,12 +139,12 @@
 
 .syntaxhighlighter .functions
 { 
-	color: #FFAA3E !important; 
+	color: #EFEF8F !important; 
 }
 
 .syntaxhighlighter .constants
 { 
-	color: #E0E8FF !important; 
+	color: #DCA3A3 !important; 
 }
 
 .syntaxhighlighter .script
