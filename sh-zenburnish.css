@@ -124,17 +124,17 @@
 
 .syntaxhighlighter .preprocessor 
 { 
-	color: #8AA6C1 !important; 
+	color: #FFCFAF !important; 
 }
 
 .syntaxhighlighter .variable 
 { 
-	color: #FFAA3E !important; 
+	color: #DCDCCC !important; 
 }
 
 .syntaxhighlighter .value
 { 
-	color: #F7E741 !important; 
+	color: #8CD0D3 !important; 
 }
 
 .syntaxhighlighter .functions
