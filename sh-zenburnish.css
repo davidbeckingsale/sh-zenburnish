@@ -34,8 +34,8 @@
 .syntaxhighlighter
 {
 	background-color: #3F3F3F !important;
-	font-family: monospace;
-	font-size: 12px;
+	font-family: monospace !important;
+	font-size: 12px !important;
 }
 
 /* Gutter line numbers */
