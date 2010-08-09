@@ -48,7 +48,7 @@
 /* Add border to the lines */
 .syntaxhighlighter .line .content
 {
-	border-left: 3px solid #435A5F !important;
+	border-left: 3px solid #262626 !important;
 	color: #B9BDB6 !important;
 }
 
@@ -157,7 +157,7 @@
 .syntaxhighlighter .color1,
 .syntaxhighlighter .color1 a
 { 
-	color: #F8BB00 !important; 
+	color: #EFEFAF !important; 
 }
 
 .syntaxhighlighter .color2,
