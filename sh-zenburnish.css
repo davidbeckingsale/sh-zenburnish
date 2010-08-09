@@ -126,7 +126,8 @@
 
 .syntaxhighlighter .preprocessor 
 { 
-	color: #FFCFAF !important; 
+	color: #FFCFAF !important;
+	font-weight: bold; !important;
 }
 
 .syntaxhighlighter .variable 
