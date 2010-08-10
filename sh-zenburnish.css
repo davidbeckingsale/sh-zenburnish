@@ -42,7 +42,7 @@
 .syntaxhighlighter .line .number
 {
 	color: #9FaFaF !important;
-	background-color: #262626;
+	background-color: #262626 !important;
 }
 
 /* Add border to the lines */
@@ -80,7 +80,7 @@
 .syntaxhighlighter .line.highlighted.alt1,
 .syntaxhighlighter .line.highlighted.alt2
 {
-	background-color: #253E5A !important;
+	background-color: #88B090 !important;
 }
 
 .syntaxhighlighter .toolbar
