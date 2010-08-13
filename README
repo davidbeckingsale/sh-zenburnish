@@ -1,5 +1,4 @@
-sh-zenburnish
-=============
+* sh-zenburnish
 
 This is a SyntaxHighlighter configuration file using the Zenburn colour scheme.
 The aim of this config is to be used with the ZenSandbox wordpress theme found
@@ -8,8 +7,7 @@ at http://github.com/davidbeckingsale/ZenSandbox
 Credit to mnem for all the original work, please see his repository at
 http://github.com/mnem/sh-zenburnish
 
-The original README is included below:
---------------------------------------
+* The original README is included below:
 
 This SyntaxHighlighter configuration file approximates a zenburn colour 
 scheme when embedding code in Wordpress blogs.
@@ -18,15 +16,15 @@ Zenburn is an excellent colour theme that's really rather popular amongst
 vimheads.
 
 
-For more information on SyntaxHighlighter Evolved for Wordpress:
+** For more information on SyntaxHighlighter Evolved for Wordpress:
 
     http://www.viper007bond.com/wordpress-plugins/syntaxhighlighter/
 
-For details on how to install this configuration:
+** For details on how to install this configuration:
 
   http://www.viper007bond.com/wordpress-plugins/syntaxhighlighter/adding-a-new-theme/
 
-For more information about zenburn:
+** For more information about zenburn:
 
   http://slinky.imukuppi.org/zenburnpage/
 
