@@ -49,7 +49,8 @@
 .syntaxhighlighter .line .content
 {
 	border-left: 3px solid #262626 !important;
-	color: #B9BDB6 !important;
+/*	color: #B9BDB6 !important; */
+	color: #ffffff !important;
 }
 
 .syntaxhighlighter.printing .line .content 
@@ -72,7 +73,7 @@
 /* Highlighed line number */
 .syntaxhighlighter .line.highlighted .number
 {
-	background-color: #253E5A !important;
+	background-color: #121212 !important;
 	color: #fff !important;
 }
 
@@ -80,12 +81,12 @@
 .syntaxhighlighter .line.highlighted.alt1,
 .syntaxhighlighter .line.highlighted.alt2
 {
-	background-color: #88B090 !important;
+	background-color: #121212 !important;
 }
 
 .syntaxhighlighter .toolbar
 {
-	background-color: #0F192A !important;
+	background-color: #242424 !important;
 }
 
 .syntaxhighlighter .toolbar a
@@ -111,6 +112,7 @@
 .syntaxhighlighter .comments a
 { 
 	color: #7F9F7F !important;
+	font-style: italic !important;
 }
 
 .syntaxhighlighter .string,
@@ -122,6 +124,7 @@
 .syntaxhighlighter .keyword
 { 
 	color: #F0DFAF !important; 
+	font-weight: bold !important;
 }
 
 .syntaxhighlighter .preprocessor 
@@ -132,12 +135,13 @@
 
 .syntaxhighlighter .variable 
 { 
-	color: #DCDCCC !important; 
+	color: #c3bf9f !important; 
 }
 
 .syntaxhighlighter .value
 { 
-	color: #8CD0D3 !important; 
+	color: #8cd0d3 !important; 
+	font-weight: bold !important;
 }
 
 .syntaxhighlighter .functions
@@ -148,27 +152,30 @@
 .syntaxhighlighter .constants
 { 
 	color: #DCA3A3 !important; 
+	font-weight: bold !important;
 }
 
 .syntaxhighlighter .script
 { 
-	background-color: #404040 !important;
+	background-color: #ffcfaf !important;
+	color: #3f3f3f !important;
+	font-weight: bold !important;
 }
 
 .syntaxhighlighter .color1,
 .syntaxhighlighter .color1 a
 { 
-	color: #EFEFAF !important; 
+	color: #c0bed1 !important; 
 }
 
 .syntaxhighlighter .color2,
 .syntaxhighlighter .color2 a
 { 
-	color: #FFFFFF !important; 
+	color: #dfcfaf !important; 
 }
 
 .syntaxhighlighter .color3,
 .syntaxhighlighter .color3 a
 { 
-	color: #FFAA3E !important; 
+	color: #dca3a3 !important; 
 }
