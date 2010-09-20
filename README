@@ -11,7 +11,7 @@ To use the theme, move it to somewhere accessible from your server,
 and use a link with the following format on the page where you want to
 use the theme:
 
-<link type="text/css" rel="Stylesheet" href="/path/to/theme"
+<link type="text/css" rel="Stylesheet" href="/path/to/theme">
 
 * The original README is included below:
 
